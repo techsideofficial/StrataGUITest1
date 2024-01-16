@@ -1,7 +1,1 @@
-{
-  "assetsOne": [
-    "asset1",
-    "asset2",
-    "balls"
-  ]
-}
+["asset1", "asset2", "balls"]
