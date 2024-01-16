@@ -1,0 +1,5 @@
+[
+    {"name": "Item 1", "url": "https://example.com/file1.txt"},
+    {"name": "Item 2", "url": "https://example.com/file2.txt"},
+    {"name": "Item 3", "url": "https://example.com/file3.txt"}
+]
